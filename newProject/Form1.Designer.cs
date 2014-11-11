@@ -38,6 +38,7 @@
             this.myPanel = new System.Windows.Forms.Panel();
             this.showEverything = new System.Windows.Forms.Button();
             this.hideEverything = new System.Windows.Forms.Button();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // nxtForm
@@ -133,12 +134,22 @@
             this.hideEverything.UseVisualStyleBackColor = true;
             this.hideEverything.Click += new System.EventHandler(this.hideEverything_Click);
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(28, 209);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(92, 13);
+            this.label2.TabIndex = 10;
+            this.label2.Text = "New Label For Git";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Lime;
             this.ClientSize = new System.Drawing.Size(582, 300);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.hideEverything);
             this.Controls.Add(this.showEverything);
             this.Controls.Add(this.myPanel);
@@ -170,6 +181,7 @@
         private System.Windows.Forms.Panel myPanel;
         private System.Windows.Forms.Button showEverything;
         private System.Windows.Forms.Button hideEverything;
+        private System.Windows.Forms.Label label2;
     }
 }
 

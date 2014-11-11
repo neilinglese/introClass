@@ -8,3 +8,6 @@
 \\siam2\user\neil.inglese2\visual studio 2013\Projects\newProject\newProject\obj\Debug\newProject.csproj.GenerateResource.Cache
 \\siam2\user\neil.inglese2\visual studio 2013\Projects\newProject\newProject\obj\Debug\newProject.exe
 \\siam2\user\neil.inglese2\visual studio 2013\Projects\newProject\newProject\obj\Debug\newProject.pdb
+C:\Users\Neil.Inglese2\Desktop\Repos\introClass\newProject\bin\Debug\newProject.exe.config
+C:\Users\Neil.Inglese2\Desktop\Repos\introClass\newProject\obj\Debug\newProject.exe
+C:\Users\Neil.Inglese2\Desktop\Repos\introClass\newProject\obj\Debug\newProject.pdb
