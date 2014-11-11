@@ -1,0 +1,10 @@
+\\siam2\user\neil.inglese2\visual studio 2013\Projects\newProject\newProject\bin\Debug\newProject.exe.config
+\\siam2\user\neil.inglese2\visual studio 2013\Projects\newProject\newProject\bin\Debug\newProject.exe
+\\siam2\user\neil.inglese2\visual studio 2013\Projects\newProject\newProject\bin\Debug\newProject.pdb
+\\siam2\user\neil.inglese2\visual studio 2013\Projects\newProject\newProject\obj\Debug\newProject.csprojResolveAssemblyReference.cache
+\\siam2\user\neil.inglese2\visual studio 2013\Projects\newProject\newProject\obj\Debug\newProject.Form1.resources
+\\siam2\user\neil.inglese2\visual studio 2013\Projects\newProject\newProject\obj\Debug\newProject.Properties.Resources.resources
+\\siam2\user\neil.inglese2\visual studio 2013\Projects\newProject\newProject\obj\Debug\newProject.secondForm.resources
+\\siam2\user\neil.inglese2\visual studio 2013\Projects\newProject\newProject\obj\Debug\newProject.csproj.GenerateResource.Cache
+\\siam2\user\neil.inglese2\visual studio 2013\Projects\newProject\newProject\obj\Debug\newProject.exe
+\\siam2\user\neil.inglese2\visual studio 2013\Projects\newProject\newProject\obj\Debug\newProject.pdb
